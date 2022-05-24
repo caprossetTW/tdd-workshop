@@ -10,6 +10,7 @@ Run tests with:
 npm test
 ```
 
+
 ## Katas
 
 ### Kata 1 - Password input field validation

@@ -4,7 +4,7 @@
   "description": "Install the dependencies with: ``` npm install ```",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caprossetTW/tdd-workshop/issues"
   },
-  "homepage": "https://github.com/caprossetTW/tdd-workshop#readme"
+  "homepage": "https://github.com/caprossetTW/tdd-workshop#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
